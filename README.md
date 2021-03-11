@@ -1,5 +1,7 @@
 Welcome to my Pima Native American Project from Kaggle!
 
+If you wish to see the code switch to the master branch and go into the code folder.  The file called pima-native-american-final.ipynb is the one that is the finished product.  If you wish to see my thought process then feel free to navigate through the other notebooks.
+
 This is the notebook that will serve as the analysis and model building of the Pima Native Americans datasets from Kaggle.
 
 # DISCLAIMER: I am by no means legally able to give any kind of health advice.  I am not a doctor of any kind, nor do I claim to be.  Take this analysis for what it is.  Please do not take this as advice or try to input information to see if you have diabetes.
